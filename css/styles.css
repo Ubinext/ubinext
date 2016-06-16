@@ -530,3 +530,10 @@ img::-moz-selection {
 .carousel-indicators li {
   border: 1px solid salmon !important;
 }
+
+.presentation-drection {
+  position: absolute;
+  top: 40%;
+  z-index: 5;
+  display: inline-block;
+}
